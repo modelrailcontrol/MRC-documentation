@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180mm"
+   height="80mm"
+   viewBox="0 0 180 80"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="trn-servosettings.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0072293"
+     inkscape:cx="370.52074"
+     inkscape:cy="-54.20928"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1117"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Bg"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-14.010337,-10.767115)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ruta"
+     style="display:inline"
+     transform="translate(-14.010337,-10.767115)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#8d8d8d;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1561"
+       width="81.145935"
+       height="71.800354"
+       x="108.452"
+       y="15.541759"
+       ry="1.4447572"
+       rx="1.4447572" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1567"
+       width="41.984207"
+       height="4.498548"
+       x="111.80367"
+       y="13.689422"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="111.89484"
+       y="16.952627"
+       id="text1565"
+       transform="scale(0.9999733,1.0000267)"><tspan
+         sodipodi:role="line"
+         id="tspan1563"
+         x="111.89484"
+         y="16.952627"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Inställningar för Servo 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="112.8651"
+       y="24.185383"
+       id="text1571"
+       transform="scale(0.9999733,1.0000267)"><tspan
+         sodipodi:role="line"
+         id="tspan1569"
+         x="112.8651"
+         y="24.185383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 2 min</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1573"
+       width="72.061119"
+       height="8.0268221"
+       x="112.9503"
+       y="25.068094" />
+    <text
+       id="text1577"
+       y="40.392277"
+       x="112.8651"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       transform="scale(0.9999733,1.0000267)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+         y="40.392277"
+         x="112.8651"
+         id="tspan1575"
+         sodipodi:role="line">Servo 2 min</tspan></text>
+    <rect
+       y="41.275417"
+       x="112.9503"
+       height="8.0268221"
+       width="72.061119"
+       id="rect1579"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="112.8651"
+       y="56.852215"
+       id="text1583"
+       transform="scale(0.9999733,1.0000267)"><tspan
+         sodipodi:role="line"
+         id="tspan1581"
+         x="112.8651"
+         y="56.852215"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 2 hastighet</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1585"
+       width="72.061119"
+       height="8.0268221"
+       x="112.9503"
+       y="57.735828" />
+    <text
+       id="text1589"
+       y="73.183632"
+       x="112.8651"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       transform="scale(0.9999733,1.0000267)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+         y="73.183632"
+         x="112.8651"
+         id="tspan1587"
+         sodipodi:role="line">Servo 2 back</tspan></text>
+    <rect
+       y="74.067673"
+       x="112.9503"
+       height="8.0268221"
+       width="72.061119"
+       id="rect1591"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="114.60172"
+       y="30.468678"
+       id="text1595"
+       transform="scale(0.9999733,1.0000267)"><tspan
+         sodipodi:role="line"
+         id="tspan1593"
+         x="114.60172"
+         y="30.468678"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">81</tspan></text>
+    <text
+       transform="scale(0.9999733,1.0000267)"
+       id="text1615"
+       y="46.675564"
+       x="114.60172"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+         y="46.675564"
+         x="114.60172"
+         id="tspan1613"
+         sodipodi:role="line">91</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="114.60172"
+       y="63.135544"
+       id="text1619"
+       transform="scale(0.9999733,1.0000267)"><tspan
+         sodipodi:role="line"
+         id="tspan1617"
+         x="114.60172"
+         y="63.135544"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">150</tspan></text>
+    <text
+       transform="scale(0.9999733,1.0000267)"
+       id="text1623"
+       y="79.466949"
+       x="114.60172"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+         y="79.466949"
+         x="114.60172"
+         id="tspan1621"
+         sodipodi:role="line">5</tspan></text>
+    <rect
+       rx="1.4447572"
+       ry="1.4447572"
+       y="15.541759"
+       x="18.49367"
+       height="71.800354"
+       width="81.145935"
+       id="rect1644"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#8d8d8d;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="0"
+       rx="0"
+       y="13.689422"
+       x="21.845356"
+       height="4.498548"
+       width="41.984207"
+       id="rect1646"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="scale(0.9999733,1.0000267)"
+       id="text1650"
+       y="16.952627"
+       x="21.934105"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+         y="16.952627"
+         x="21.934105"
+         id="tspan1648"
+         sodipodi:role="line">Inställningar för Servo 1</tspan></text>
+    <text
+       transform="scale(0.9999733,1.0000267)"
+       id="text1654"
+       y="24.185383"
+       x="22.904366"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+         y="24.185383"
+         x="22.904366"
+         id="tspan1652"
+         sodipodi:role="line">Servo 1 min</tspan></text>
+    <rect
+       y="25.068094"
+       x="22.992001"
+       height="8.0268221"
+       width="72.061119"
+       id="rect1656"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="scale(0.9999733,1.0000267)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="22.904366"
+       y="40.392277"
+       id="text1660"><tspan
+         sodipodi:role="line"
+         id="tspan1658"
+         x="22.904366"
+         y="40.392277"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 1 min</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1662"
+       width="72.061119"
+       height="8.0268221"
+       x="22.992001"
+       y="41.275417" />
+    <text
+       transform="scale(0.9999733,1.0000267)"
+       id="text1666"
+       y="56.852215"
+       x="22.904366"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+         y="56.852215"
+         x="22.904366"
+         id="tspan1664"
+         sodipodi:role="line">Servo 1 hastighet</tspan></text>
+    <rect
+       y="57.735828"
+       x="22.992001"
+       height="8.0268221"
+       width="72.061119"
+       id="rect1668"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="scale(0.9999733,1.0000267)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="22.904366"
+       y="73.183632"
+       id="text1672"><tspan
+         sodipodi:role="line"
+         id="tspan1670"
+         x="22.904366"
+         y="73.183632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 1 back</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1674"
+       width="72.061119"
+       height="8.0268221"
+       x="22.992001"
+       y="74.067673" />
+    <text
+       transform="scale(0.9999733,1.0000267)"
+       id="text1678"
+       y="30.468678"
+       x="24.640968"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+         y="30.468678"
+         x="24.640968"
+         id="tspan1676"
+         sodipodi:role="line">79</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.640968"
+       y="46.675564"
+       id="text1682"
+       transform="scale(0.9999733,1.0000267)"><tspan
+         sodipodi:role="line"
+         id="tspan1680"
+         x="24.640968"
+         y="46.675564"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">87</tspan></text>
+    <text
+       transform="scale(0.9999733,1.0000267)"
+       id="text1686"
+       y="63.135544"
+       x="24.640968"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+         y="63.135544"
+         x="24.640968"
+         id="tspan1684"
+         sodipodi:role="line">150</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.640968"
+       y="79.466949"
+       id="text1690"
+       transform="scale(0.9999733,1.0000267)"><tspan
+         sodipodi:role="line"
+         id="tspan1688"
+         x="24.640968"
+         y="79.466949"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">3</tspan></text>
+  </g>
+</svg>

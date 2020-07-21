@@ -1,0 +1,11 @@
+---
+title: Mindre Uppdateringar
+author: Peter Kindström
+author_url: https://github.com/mekanoid/
+author_title: Maintainer of MMRC
+author_image_url: https://avatars2.githubusercontent.com/u/1175680?s=460&v=4
+
+---
+
+Jag har nu flyttat all information som berör MMRC-enheter till en ny avdelning på webbsidorna. Du når avdelningen via menyn Enheter upptill i webbläsaren. Där kan du just nu hitta information om en centralenhet (wifi & MQTT), växelstyrning och trådlös video.
+
