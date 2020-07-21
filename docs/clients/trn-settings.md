@@ -2,7 +2,11 @@
 title: Inställningar
 ---
 
-På denna sida beskrivs endast de specifika inställningar som gäller just vxäelstyrningen. För information om de mer generella MMRC-inställningarna, se sidan [Enheters inställningar](intro-wifi).
+När du väl installerat programvara och fått igång enheten, behöver du göra en del specifika inställningar som gäller just växelstyrning.
+
+
+## Wifi & MQTT-inställningar
+Hur du hittar enhetens inställningar och för mer information om de generella MRC-inställningarna för nätverket och kommunikationen mellan enheter, se sidan [Enheters inställningar](intro-wifi).
 
 
 ## Servo-inställningar
@@ -23,5 +27,5 @@ När du ställt in allting och vill spara det, går du längst ner på webbsidan
 
 ![Apply-knapp](../../img/apply-knapp.svg)
 
-Eftersom enhetens webbserver/accesspunkt finns kvar så länge du är ansluten till den, är det lämpligt att även koppla bort din telefon från enhetens accesspunkt “MMRC-client” (eller det namn du valt i ”Thing name”).
+Eftersom enhetens webbserver/accesspunkt finns kvar så länge du är ansluten till den, är det lämpligt att även koppla bort din telefon från enhetens accesspunkt “MRC-client” (eller det namn du valt i ”Thing name”).
 

@@ -2,14 +2,16 @@
 title: Introduktion
 ---
 
-I den här avdelningen beskrivs hur du bygger ihop en växelstyrning för två växlar.
+På dessa sidor beskrivs hur du gör en MRC-enhet som kan hantera två växlar var för sig. Varje växel styrs av en egen knapp och har två lysdioder som lägesindikering. De kan dessutom styras från avstånd via trådlös anslutning (wifi).
+Det finns även möjlighet att styra två servon till samma växel, så att enheten även kan hantera motstående växlar eller skyddsväxlar.
+
 
 
 ## Materiel
-För att bygga ihop en komplett växelstyrning, behöver du minst följande materiel.
+För att bygga ihop en komplett växelstyrning, behöver du minst följande materiel:
 
  - Wemos-mini kretskortsdator (eller klon)
- - Mönsterkort, special
+ - Mönsterkort, special (*ett per växel*)
  - Stiftlist, 9 pinnar
  - Hylslist, 4 pinnar
  - Resistorer, en stycken 10 kOhm och två stycken 330 Ohm

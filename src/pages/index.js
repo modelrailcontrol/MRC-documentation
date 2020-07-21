@@ -22,7 +22,7 @@ const features = [
     imageUrl: 'img/icon-flexible.svg',
     description: (
       <>
-        En väl definierad standard ger var och en stor frihet att bygga egna lösningar
+        En väl definierad standard ger var och en frihet att bygga egna lösningar
         som fungerar tillsammans med alla andra.
       </>
     ),
@@ -87,12 +87,13 @@ function Home() {
                 fontSize: '20px',
             }}>
             <p></p>
-            <p>Lite förenklat kan man säga att MMRC är ett sätt för alla typer av datorer
+            <p>Lite förenklat kan man säga att MRC är ett sätt för alla typer av datorer
             att hämta och lämna meddelanden. Genom att göra detta på ett standardiserat sätt, 
             får man en kommunikation mellan datorerna.</p>
             <p>Denna kommunikation kan man sedan använda till att exempelvis styra allt 
-            från växlar till husbelysning på en modelljärnväg eller modulbana. På den här
-            webbplatsen kan du läsa mer om hur det går till.</p>
+            från växlar till husbelysning på en modelljärnväg eller modulbana. Inspirationen
+            kommer mycket från det som kallas IoT - Internet of Things, där man tänker sig
+            att alla saker kan kommunicera med varandra.</p>
         </div>
 
         {features && features.length > 0 && (

@@ -10,21 +10,21 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="25.135416mm"
-   height="8.361392mm"
-   viewBox="0 0 25.135416 8.3613921"
+   width="17.811701mm"
+   height="8.5709696mm"
+   viewBox="0 0 17.811701 8.5709697"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="mmrc-logo.svg">
+   sodipodi:docname="mrc-logo.svg">
   <defs
      id="defs2">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 148.50001 : 1"
-       inkscape:vp_y="0 : 999.99998 : 0"
-       inkscape:vp_z="209.99999 : 148.50001 : 1"
-       inkscape:persp3d-origin="104.99999 : 99.000002 : 1"
+       inkscape:vp_x="0 : 148.50002 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="209.99999 : 148.50002 : 1"
+       inkscape:persp3d-origin="104.99999 : 99.000007 : 1"
        id="perspective59" />
   </defs>
   <sodipodi:namedview
@@ -34,9 +34,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.557211"
-     inkscape:cx="-58.741665"
-     inkscape:cy="-183.09539"
+     inkscape:zoom="6.228844"
+     inkscape:cx="-3.2801527"
+     inkscape:cy="-16.051609"
      inkscape:document-units="mm"
      inkscape:current-layer="g41"
      showgrid="false"
@@ -69,7 +69,7 @@
      id="layer1"
      style="display:none"
      sodipodi:insensitive="true"
-     transform="translate(-115.76119,-43.41344)">
+     transform="translate(-123.1897,-43.308654)">
     <image
        y="39.957291"
        x="39.763088"
@@ -84,13 +84,13 @@
      id="layer2"
      inkscape:label="Ram"
      style="display:inline"
-     transform="translate(-115.76119,-43.41344)" />
+     transform="translate(-123.1897,-43.308654)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="MMRC röd fylld"
      style="display:none"
-     transform="translate(-115.76119,-43.41344)">
+     transform="translate(-123.1897,-43.308654)">
     <path
        style="fill:#aa0000;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 43.911235,69.505579 V 44.077941 l 2.115484,-2.285225 h 5.77477 l 5.137491,8.085848 5.182476,-8.085848 h 5.77477 l 1.953627,2.285225 V 69.505579 H 61.959598 V 54.64159 H 59.927626 L 56.93898,59.282142 53.837182,54.64159 h -2.035693 v 14.863989 z"
@@ -127,47 +127,36 @@
      inkscape:label="MMRC röd ram"
      id="g41"
      inkscape:groupmode="layer"
-     transform="translate(-115.76119,-43.41344)">
-    <g
-       style="display:inline;stroke:#800000"
-       id="g108-3"
-       transform="matrix(0.29042754,0,0,0.29042754,102.94521,31.443284)">
-      <path
-         sodipodi:nodetypes="cccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path49-6"
-         d="M 96.505229,69.505579 V 44.077941 l 2.589816,-2.358137 h 11.835235 l 4.62576,8.79662 -4.8389,9.469054 4.8389,9.520101 h -9.70755 v -7.672918 h -1.45301 v 7.672918 z"
-         style="display:inline;fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path43-7"
-         d="M 44.627993,69.505579 V 44.077941 l 2.115484,-2.285225 h 5.77477 l 5.137491,8.085848 5.182476,-8.085848 h 5.77477 l 1.953627,2.285225 V 69.505579 H 62.676356 V 54.64159 H 60.644384 L 57.655738,59.282142 54.55394,54.64159 h -2.035693 v 14.863989 z"
-         style="fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         style="fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 70.566611,69.505579 V 44.077941 l 2.115484,-2.285225 h 5.77477 l 5.137491,8.085848 5.182476,-8.085848 h 5.77477 l 1.953627,2.285225 V 69.505579 H 88.614974 V 54.64159 h -2.031972 l -2.988646,4.640552 -3.101798,-4.640552 h -2.035693 v 14.863989 z"
-         id="path45-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccccccc" />
-      <path
-         sodipodi:nodetypes="cccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path47-3"
-         d="m 115.55604,69.505579 -4.76005,-9.626667 9.25747,-18.163275 h 8.27427 l 1.84652,2.362304 v 7.346553 h -9.1477 l -2.51384,5.20975 2.402,4.021771 9.25954,-0.125592 v 8.975156 z"
-         style="display:inline;fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path51-5"
-         d="m 103.76512,49.931124 v 2.388097 h 4.51455 l 1.30287,-2.388097 z"
-         style="display:inline;fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+     transform="translate(-123.1897,-43.308654)">
+    <path
+       style="display:inline;fill:none;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.97299,51.629618 v -7.384886 l 0.75215,-0.684868 h 3.43728 l 1.34345,2.554781 -1.40535,2.750074 1.40535,2.764899 h -2.81934 v -2.228426 h -0.422 v 2.228426 z"
+       id="path49-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path45-5"
+       d="m 123.4397,51.629618 v -7.384886 l 0.61439,-0.663692 h 1.67715 l 1.49207,2.348353 1.50514,-2.348353 h 1.67715 l 0.56739,0.663692 v 7.384886 h -2.29155 v -4.316911 h -0.59014 l -0.86799,1.347744 -0.90084,-1.347744 h -0.59123 v 4.316911 z"
+       style="fill:none;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:none;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.50587,51.629618 -1.38245,-2.795849 2.68862,-5.275115 h 2.40308 l 0.53628,0.686078 v 2.133641 h -2.65675 l -0.73009,1.513055 0.69761,1.168033 2.68923,-0.03647 v 2.606632 z"
+       id="path47-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       style="display:inline;fill:none;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.08146,45.944658 v 0.693569 h 1.31115 l 0.37839,-0.693569 z"
+       id="path51-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="g53"
      inkscape:label="MMRC svart ram"
      style="display:inline"
-     transform="translate(-115.76119,-43.41344)" />
+     transform="translate(-123.1897,-43.308654)" />
 </svg>

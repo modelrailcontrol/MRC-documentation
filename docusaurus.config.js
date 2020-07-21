@@ -23,7 +23,7 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/clients/intro-01-overview',
+          to: 'docs/clients/intro-overview',
           label: 'Enheter',
           position: 'left',
         },
@@ -40,15 +40,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Dokumentation',
+          title: 'Information',
           items: [
             {
-              label: 'Översikt',
+              label: 'Dokumentation',
               to: 'docs/',
             },
             {
-              label: 'Struktur',
-              to: 'docs/struct-intro/',
+              label: 'Enheter',
+              to: 'docs/clients/intro-overview/',
             },
           ],
         },
@@ -99,17 +99,17 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'intro-overview',
+          homePageId: 'intro-01-overview',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/modelrailcontrol/MRC-documentation/',
+            'https://github.com/modelrailcontrol/MRC-documentation/blob/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/modelrailcontrol/MRC-documentation/blog/',
+            'https://github.com/modelrailcontrol/MRC-documentation/blog/tree/master/',
           feedOptions: {
             title: 'Model Rail Control',
             description: 'Senaste nytt kring MRC - Model Rail Control',

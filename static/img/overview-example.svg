@@ -276,10 +276,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1011145"
-     inkscape:cx="265.62158"
+     inkscape:cx="93.977305"
      inkscape:cy="90.683048"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1117"
@@ -299,7 +299,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -786,15 +786,15 @@
        inkscape:export-ydpi="127.84" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="73.812973"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="83.242203"
        y="132.18878"
        id="text1293"><tspan
          sodipodi:role="line"
          id="tspan1291"
-         x="73.812973"
+         x="83.691444"
          y="132.18878"
-         style="font-size:2.82222223px;stroke-width:0.26458332">Central panel </tspan></text>
+         style="font-size:2.82222223px;text-align:center;text-anchor:middle;stroke-width:0.26458332">Styrpanel </tspan></text>
   </g>
   <g
      inkscape:label="Prylar"
@@ -1474,7 +1474,7 @@
          id="tspan468-5"
          x="33.720242"
          y="35.885849"
-         style="font-size:4.23333311px;line-height:89.99999762%;text-align:start;text-anchor:start;stroke-width:0.26458332">MMRC exempel</tspan><tspan
+         style="font-size:4.23333311px;line-height:89.99999762%;text-align:start;text-anchor:start;stroke-width:0.26458332">MRC exempel</tspan><tspan
          sodipodi:role="line"
          x="33.720242"
          y="40.330849"

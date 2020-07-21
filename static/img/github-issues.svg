@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1162327"
-     inkscape:cx="289.67005"
+     inkscape:cx="120.35052"
      inkscape:cy="68.109421"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -548,7 +548,7 @@
          id="tspan1953"
          x="15.727263"
          y="46.346539"
-         style="font-size:2.82222223px;line-height:375%;fill:#808080;stroke-width:0.26458332">#b50000</tspan><tspan
+         style="font-size:2.82222223px;line-height:375%;fill:#808080;stroke-width:0.26458332">#bb0000</tspan><tspan
          sodipodi:role="line"
          x="15.727263"
          y="59.575706"
@@ -563,16 +563,16 @@
          x="15.727263"
          y="86.034035"
          style="font-size:2.82222223px;line-height:375%;fill:#808080;stroke-width:0.26458332"
-         id="tspan1961">#009100</tspan><tspan
+         id="tspan1961">#008800</tspan><tspan
          sodipodi:role="line"
          x="15.727263"
          y="99.263206"
          style="font-size:2.82222223px;line-height:375%;fill:#808080;stroke-width:0.26458332"
-         id="tspan1963">#91cc55</tspan><tspan
+         id="tspan1963">#99cc55</tspan><tspan
          sodipodi:role="line"
          x="15.727263"
          y="112.49237"
          style="font-size:2.82222223px;line-height:375%;fill:#808080;stroke-width:0.26458332"
-         id="tspan1965">#cccccc</tspan></text>
+         id="tspan1965">#dddddd</tspan></text>
   </g>
 </svg>

@@ -1,0 +1,36 @@
+---
+title: Elektroniken
+---
+
+Elektroniken till växel-/servostyrningen är ganska enkel; några resistorer, lysdioder och en tryckknapp behöver monteras tillsammans med en kretskortsdator och ett mönsterkort.
+
+
+## Kretskortet
+Börja tillverkningen av kretskortet genom att först löda resistorerna på sina platser. Värdet på dessa kan behöva varieras beroende på vilken färg man har på lysdioderna och vilken spänning kretskortsdatorn har på sina utgångar. I detta fall har vi 3.3V-utgångar och gröna lysdioder så då fungerar 330 Ohm resistorer bra.
+
+![Kretskortet](../../img/trn-2turnout-pcb.svg)
+
+För att tryckknappen ska kunna detekteras behövs även en resistor på 10 kOhm. Löd till sist stiftlister för 5V-matning (2 pin), servon (2 x 3 pin) samt en hylslist för styrning/indikering (4 pin).
+
+
+## Styrning och indikering
+Om man valt att *inte* göra den föreslagna styrpanelen, behöver man koppla in en tryckknapp och två lysdioder på följande sätt. Lämpligen måste de först fysiskt placeras i någon panel eller liknande. Därefter löds sladdarna för lysdioder och tryckknapp till en 4-pinnars stiftlist. (Det är denna stiftlist som senare kopplas in till kretskortets hylslist.)
+
+![Styrning](../../img/trn-button.svg)
+
+Har man inte behov av indikering, kan man bara låta bli att ansluta lysdioderna. Då blir inkopplingen enklare och två av resistorerna på krestkortet behöver inte monteras.
+
+
+## Styrenheten
+Till sist behöver man koppla ihop kretskortsdator med kretskortet. Det sker genom att löda åtta olika kablar enligt schemat som visas här.
+
+![Styrenheten](../../img/trn-solder.svg)
+
+:::note Observera
+
+Kablarnas längd måste anpassas efter den låda allting sedan ska stoppas in i!
+
+:::
+
+
+Har du en annan typ av kretskortsdator, får du kanske välja andra ut-/ingångar att koppla in. Då måste även inställningarna i programvaran justeras så att rätt utgång/ingång får rätt funktion.
