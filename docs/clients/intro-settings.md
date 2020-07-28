@@ -10,23 +10,23 @@ Dessutom kan man ställa in enheten så att den alltid startar med att visa sin 
 ## Starta MRC-enheten
 När du startar din MRC-enhet första gången, eller när du bytt nätverk, måste du göra några nya inställningar. Det gör man lämpligen via en mobiltelefon eller surfplatta med wifi.
 
-Starta först mobilen och gå till dess nätverksinställningar. Starta sedan MRC-enheten. Efter en kort stund kan du troligen se eller ett öppet nätverk som vanligen heter “MRC-client”. Eventuellt måste du manuellt scanna efter nya nätverk för att hitta enheten. I exemplet nedan heter nätverket “MMRC 2-signal”.
+Starta först mobilen och gå till dess nätverksinställningar. Starta sedan MRC-enheten. Efter en kort stund kan du troligen se eller ett öppet nätverk som vanligen heter “MRC-client”. Eventuellt måste du manuellt scanna efter nya nätverk för att hitta enheten.
 
-![](../../img/mrc-settings01.png)
+![](../../img/clients/mrc-settings01.svg)
 
 Anslut nu till detta nätverk. Har du inte ändrat själv i programkoden, så ska lösenordet vara “mrc4president” (stora bokstaven I).
 
-![](../../img/mrc-settings02.png)
+![](../../img/clients/mrc-settings02.svg)
 
 Du kan sedan starta mobiltelefonens webbläsare och surfa till godtycklig webbplats. Genom att du är ansluten till ett väldigt lokalt nätverk, kommer du bara att hamna på MRC-enhetens egen startsida. Där får du lite information om enheten och en länk till inställningarna.
 
-![](../../img/mrc-settings03.png)
+![](../../img/clients/mrc-settings03.svg)
 
 
 ## Inställningar för wifi och MQTT
 Om du klickar på länken Inställningar får du nu möjlighet att se och ändra alla enhetens inställningar. Första gången måste du alltid sätta nytt lösenord till inställningarna (AP password) och ange nätverksuppgifterna.
 
-![](../../img/mrc-settings04.png)
+![](../../img/clients/mrc-settings04.svg)
 
 Olika enheter kan ha olika inställningar, men alla enheter har följande grundläggande för sin kommunikation:
 
