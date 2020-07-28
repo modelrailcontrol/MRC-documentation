@@ -30,6 +30,8 @@ När grejorna sitter fast är det lämpligt att skruva ihop front och bakdel inf
 ## Koppla ihop
 Från dessa tre grejor ska nu fyra kablar dras till en kontakt. Längden på kablarna beror på avståndet mellan styrenheten och panelen, men minst ett par decimeter är nog bra att ha.
 
+![](../../static/img/clients/mrc-2turnout-panel02.jpg)
+
 Klipp till och vik ihop minussidan på lysdioderna. Löd ihop dessa tillsammans med en kabel som går till ena sidan av knappen. Därifrån dras sedan en minusledare till stiftkontakten. Sen dras en kabel från varje grej till sin egen pinne på stiftkontakten. Ordningen på stiftkontakten ska vara följande:
  1. Minus / jord
  2. Knapp
@@ -40,3 +42,5 @@ Om styrpanelen ska kopplas i och ur ibland, kan det vara bra att markera vilket 
 
 ## Montera och koppla in
 Styrpanelen kan nu monteras i sitt hål och är redo att kopplas in till styrelektroniken.
+
+![](../../img/clients/mrc-2turnout-panel01.jpg)
