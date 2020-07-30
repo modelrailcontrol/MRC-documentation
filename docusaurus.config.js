@@ -102,7 +102,7 @@ module.exports = {
           homePageId: 'intro-01-overview',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
+          editUrl: 
             'https://github.com/modelrailcontrol/MRC-documentation/blob/master/',
         },
         blog: {
