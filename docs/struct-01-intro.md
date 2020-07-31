@@ -4,7 +4,7 @@ title: Introduktion
 
 Principen för MQTT är att man skickar (publish) ett meddelande (payload) till ett specifikt ämne (topic). Andra kan sedan välja att lyssa på eller prenumerera (subscribe) på ett ämne. Så varje gång någon skickar (publish) ett meddelande (payload) till ett ämne (topic), kommer detta meddelande att vidarebefordras till alla som valt att prenumerera/lyssna (subscribe) på detta ämne.
 
-![Principen för MQTT](../img/struct-overview.svg)
+![Principen för MQTT](/img/struct-overview.svg)
 
 I centrum för detta förfarande finns en meddelandeserver (broker). Det är en central programvara vars enda uppgift lite förenklat är att hantera ämnen, meddelanden och prenumerationer. 
 Man kan även göra liknelsen att brokerns uppgift är att hantera en massa fack (subject) med meddelanden (payload) som enheter kan skriva dit (publish) eller hämta (subsrcibe).

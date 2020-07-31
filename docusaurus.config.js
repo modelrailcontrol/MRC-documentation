@@ -15,7 +15,7 @@ module.exports = {
         alt: 'MRC-logo',
         src: 'img/mrc-logo.svg',
       },
-      links: [
+      items: [
         {
           to: 'docs/',
           activeBasePath: 'docs',

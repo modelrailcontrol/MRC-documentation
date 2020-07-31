@@ -12,7 +12,7 @@ Mönsterkortet är dubbelsidigt och har måtten 17x35 mm. Det är tänkt att anv
 
 `R1` och `R2` är till för att begränsa strömmen till lysdioderna. De kan normal vara runt 120 Ohm för 3.3V matning och runt 330 Ohm för 5V-matning, men storleken är förstås beroende av vilken typ av lysdiod du använder och vilken ljusstyrka du vill ha. `R3` är ett pullup-motstånd och bör lämpligen vara på 10 kOhm.
 
-![Anslutningar](../../img/trn-2turnout-connections.svg)
+![Anslutningar](/img/clients/trn-connections.svg)
 
 Till vänster finns anslutning för tryckknapp (`-` och `Btn`) och två lysdioder (`L1` och `L2`). 
 
@@ -31,7 +31,7 @@ Man kan strömmata kretskortet & kretskortsdatorn på lite olika sätt. Konstruk
 
 Hur man använder anslutningarna beror också på hur man vill (och kan) strömförsörja kretskortsdatorn samt om den orkar driva servona.
 
-![Kopplingsschema](../../img/pcb-2turnout-schematic.svg)
+![Kopplingsschema](/img/clients/trn-schematic.svg)
 
 För 5V-baserade kretskortsdatorer finns följande alternativ:
  - Man matar kretskortsdatorn separat och ansluter `5V`- och `-` på kretskortet till extern strömmatning (t.ex USB-adapter)

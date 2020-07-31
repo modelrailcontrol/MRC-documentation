@@ -12,21 +12,21 @@ När du startar din MRC-enhet första gången, eller när du bytt nätverk, mås
 
 Starta först mobilen och gå till dess nätverksinställningar. Starta sedan MRC-enheten. Efter en kort stund kan du troligen se eller ett öppet nätverk som vanligen heter “MRC-client”. Eventuellt måste du manuellt scanna efter nya nätverk för att hitta enheten.
 
-![](../../img/clients/mrc-settings01.svg)
+![Hitta enheten](/img/clients/mrc-settings01.svg)
 
-Anslut nu till detta nätverk. Har du inte ändrat själv i programkoden, så ska lösenordet vara “mrc4president” (stora bokstaven I).
+Anslut nu till detta nätverk. Har du inte ändrat själv i programkoden, så ska lösenordet vara “mrc4president”.
 
-![](../../img/clients/mrc-settings02.svg)
+![Anslut till enheten](/img/clients/mrc-settings02.svg)
 
 Du kan sedan starta mobiltelefonens webbläsare och surfa till godtycklig webbplats. Genom att du är ansluten till ett väldigt lokalt nätverk, kommer du bara att hamna på MRC-enhetens egen startsida. Där får du lite information om enheten och en länk till inställningarna.
 
-![](../../img/clients/mrc-settings03.svg)
+![Enhetens startsida](/img/clients/mrc-settings03.svg)
 
 
 ## Inställningar för wifi och MQTT
 Om du klickar på länken Inställningar får du nu möjlighet att se och ändra alla enhetens inställningar. Första gången måste du alltid sätta nytt lösenord till inställningarna (AP password) och ange nätverksuppgifterna.
 
-![](../../img/clients/mrc-settings04.svg)
+![Grundinställningar](/img/clients/mrc-settings04.svg)
 
 Olika enheter kan ha olika inställningar, men alla enheter har följande grundläggande för sin kommunikation:
 
@@ -51,6 +51,6 @@ Varje enhet har sen en del inställningar som är specifika för vad den gör. V
 ## Spara inställningarna
 När du ställt in allting och vill spara det, går du längst ner på webbsidan och klickar på den blåa Apply-knappen. Då sparas inställningarna och enheten kommer att använda dem i fortsättningen.
 
-![Spara med Applyknappen](../../img/apply-knapp.svg)
+![Spara med Applyknappen](/img/clients/apply-knapp.svg)
 
 Eftersom enhetens webbserver/accesspunkt finns kvar så länge du är ansluten till den, är det lämpligt att även koppla bort din telefon från enhetens accesspunkt “MRC-client” (eller det namn du valt i ”Thing name”).

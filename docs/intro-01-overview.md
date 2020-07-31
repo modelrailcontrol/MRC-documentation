@@ -7,7 +7,7 @@ Tanken med MRC är att skapa ett flexibelt och decentraliserat sätt att styra m
 ## Principen
 Principen är att ha många små, specialiserade enheter som utför en enstaka uppgift helt självständigt. De kan få kommandon utifrån och skicka status eller kommandon till andra enheter.
 
-![MRC Princip](../img/overview-example.svg)
+![MRC princip](/img/overview-example.svg)
 
 Genom att ha "intelligensen" sittande i varje enskild enhet, behöver man inte ha någon större cental dator som sköter systemet och inte heller någon avancerad kommunikation.
 

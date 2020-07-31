@@ -50,4 +50,4 @@ Ställer växeln (servot) i läge sväng
 ## Github issues
 Så här används etiketterna för Ärenden på Github:
 
-![](../img/github-issues.svg)
+![Github ärende-taggar](/img/github-issues.svg)

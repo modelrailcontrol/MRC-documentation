@@ -2,7 +2,7 @@
 title: Installera
 ---
 
-Detta är en kortfattad beskrivning av hur man får en Raspberry Pi (RPi) att agera som accesspunkt (wifi) och meddelandeserver (broker) för ett fristående trådlöst nätverk. Den är sedan grunden för att kunna använda sitt eget MMRC-nät hemma eller på en modulträff.
+Detta är en kortfattad beskrivning av hur man får en Raspberry Pi (RPi) att agera som accesspunkt (wifi) och meddelandeserver (broker) för ett fristående trådlöst nätverk. Den är sedan grunden för att kunna använda sitt eget MRC-nät hemma eller på en modulträff.
 
 Det är ganska många moment inblandade i arbetet, men inget av dem är speciellt svårt. Det viktiga är att göra allt i rätt ordning och att vara noga med de texter man skriver in. Att råka skriva stor bokstav istället för liten kan göra att ingenting fungerar. Fråga mig, jag har provat. :-)
 
@@ -16,7 +16,7 @@ Det är ganska många moment inblandade i arbetet, men inget av dem är speciell
 
 Det går att installera och konfigurera en Raspberry Pi utan bildskärm, tangentbord och mus, men hur man gör det ingår inte i denna instruktion. Likaså har inte en Raspberry Pi Zero W möjlighet att ha bildskärm och i det fallet är det lättast att göra installationen på en Raspberry Pi 3 eller 4 och sedan enbart flytta SD-kortet till Zero W.
 
-![Exempel på meddelandeserver](../../img/clients/cmc-example.jpg)
+![Exempel på meddelandeserver](/img/clients/cmc-example.jpg)
 
 ## Förberedelser
 

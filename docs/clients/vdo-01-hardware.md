@@ -4,7 +4,7 @@ title: Materiel
 
 Ett relativt enkelt sätt att sända trådlös video från din modelljärnväg, är att använda en Raspberry Pi med kamera och mjukvaran MotionEyeOS. Du behöver följande.
 
-![](../../img/other-video.svg)
+![Översikt](/img/clients/vdo-overview.svg)
 
 
 ## Raspberry Pi
@@ -28,11 +28,11 @@ Raspberryn behöver fästas under landskapet och det får du förstås göra på
 
 Monteringskitet består av en platta som limmas mot undersidan av modulen och som sedan Raspberryn kan skruvas fast i.
 
-![Kamera med monteringskit](../../img/misc-spycam02.png)
+![Kamera med monteringskit](/img/clients/vdo-spycam02.png)
 
 Den har en en stång som både är stöd/fäste för kameran och gör det möjligt att vrida kameran i sidled. Eftersom kameran har en flatkabel kan man inte vrida den allt för mycket, så det är viktigt att tänka på var man placerar kameran & Raspberryn.
 
-![Monteringskitets alla delar (utom skruv)](../../img/misc-spycam03.png)
+![Monteringskitets alla delar (utom skruv)](/img/clients/vdo-spycam03.png)
 
 Med det här kitet hamnar mitten på kamerans lins cirka 45 mm ovanför där man fäster plattan på modulens eller layoutens undersida. Det kan alltså vara lämpligt att ha 40 mm "landskap" mellan över- och undersida där kameran placeras.
 

@@ -12,7 +12,7 @@ Hur du hittar enhetens inställningar och för mer information om de generella M
 ## Servo-inställningar
 Den här enheten hanterar ju i huvudsak servon, så den har flera olika inställningar för dessa. Det finns fyra olika inställningar för varje servo:
 
-![Inställningar för en växel](../../img/trn-servosettings.svg)
+![Inställningar för en växel](/img/clients/trn-servosettings.svg)
 
  - `Servo X min:` Siffra mellan 0 och 255 som talar om var servots ena ändläge ska vara.
  - `Servo X max:` Siffra mellan 0 och 255 som talar om var servots andra ändläge ska vara.
@@ -25,7 +25,7 @@ Just inställningarna av servots ändlägen är bra att göra grovt innan det ha
 ## Spara inställningarna
 När du ställt in allting och vill spara det, går du längst ner på webbsidan och klickar på den blåa Apply-knappen. Då sparas inställningarna och enheten kommer att använda dem i fortsättningen.
 
-![Apply-knapp](../../img/apply-knapp.svg)
+![Apply-knapp](/img/clients/apply-knapp.svg)
 
 Eftersom enhetens webbserver/accesspunkt finns kvar så länge du är ansluten till den, är det lämpligt att även koppla bort din telefon från enhetens accesspunkt “MRC-client” (eller det namn du valt i ”Thing name”).
 

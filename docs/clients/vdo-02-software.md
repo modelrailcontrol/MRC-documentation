@@ -19,9 +19,9 @@ På en Raspberry Pi Zero W behöver man särskilt tänka på att konfigurera det
 
 
 ## Montera ihop allting
-Det näst sista steget är att bara montera ihop Raspberry Pi Zero W med kameramodulen och stoppa i SD-kortet. FRör att testa är det nu bara att ansluta USB-laddaren så ska allting starta igång.
+Det näst sista steget är att bara montera ihop Raspberry Pi Zero W med kameramodulen och stoppa i SD-kortet. För att testa är det nu bara att ansluta USB-laddaren så ska allting starta igång.
 
-![Raspberry Pi Zero W med Spy Camera](../../img/misc-spycam01.png)
+![Raspberry Pi Zero W med Spy Camera](/img/clients/vdo-spycam01.png)
 
 Men här följer förstås även ett arbete med att bygga in Raspberryn i din layout och kanske snyggt dölja kameran.
 

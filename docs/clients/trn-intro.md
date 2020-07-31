@@ -5,7 +5,7 @@ title: Introduktion
 På dessa sidor beskrivs hur du gör en MRC-enhet som kan hantera två växlar var för sig. Varje växel styrs av en egen knapp och har två lysdioder som lägesindikering. De kan dessutom styras från avstånd via trådlös anslutning (wifi).
 Det finns även möjlighet att styra två servon till samma växel, så att enheten även kan hantera motstående växlar eller skyddsväxlar.
 
-![](../../img/clients/mrc-2turnout-examples.svg)
+![Enhetens styrmöjligheter](/img/clients/mrc-2turnout-examples.svg)
 
 ## Materiel
 För att bygga ihop en komplett växelstyrning, behöver du minst följande materiel:
