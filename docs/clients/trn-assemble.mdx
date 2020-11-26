@@ -1,0 +1,85 @@
+---
+title: Montering
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+Hela växelstyrningen behöver kunna monteras på en modelljärnväg.
+
+## Låda med hållare
+Det finns en låda framtagen för växelstyrningen som är anpassad för 3D-utskrift. Den rymmer en Wemos kretskortsdator och ett kretskort. Den har öppningar för de anslutningar som behövs, resetknappen åtkomlig och ett hål så man ser statusdioden på kretskortsdatorn (på baksidan).
+
+<Tabs
+  groupId="pcb-choice"
+  defaultValue="one"
+  values={[
+    {label: 'Styra en växel', value: 'one'},
+    {label: 'Styra två växlar', value: 'two'},
+  ]}>
+  <TabItem value="one">
+	Ska du styra en växel så har lådan följande anslutningar:
+  	<img alt="Låda för en växel" src={useBaseUrl('img/clients/trn-mounting.svg')} />
+  </TabItem>
+  <TabItem value="two">
+  	Ska du styra två växlar så finns följande anslutningar:
+	<img alt="Låda för två växlar" src={useBaseUrl('img/clients/trn-mounting02.svg')} />
+</TabItem>
+</Tabs>
+
+
+Till lådorna finns även en hållare och en avlastning/upphängning för USB-kabel.
+
+Underlagen för all hårdvara finns i ett [Github repository](https://github.com/modelrailcontrol/MRC-3dprint).
+
+:::note OBS!
+Ännu så länge finns inte lådan för två växelstyrningar framtagen!
+:::
+
+## Hopkoppling
+Nu är allting klart för att kopplas ihop till en fungerande växelstyrning.
+
+ - Ett eller två servon kopplas till de trepoliga stiftlisterna på kretskortet
+ - Knapp & lysdioder till den 4-poliga hylslisten
+ - 5V-matning kan antingen ske via micro-USB-kontakten direkt på kretskortsdatorn, alternativt via en 2-polig hylslist till kretskortet.
+
+
+### Lösa delar
+Om du inte använder den föreslagna lådan, är det så här allting ska kopplas ihop.
+
+<Tabs
+  groupId="pcb-choice"
+  defaultValue="one"
+  values={[
+    {label: 'Styra en växel', value: 'one'},
+    {label: 'Styra två växlar', value: 'two'},
+  ]}>
+  <TabItem value="one">
+  	<img alt="Koppla för en växel" src={useBaseUrl('img/clients/trn-assemble.svg')} />
+  </TabItem>
+  <TabItem value="two">
+  	Ska du styra två växlar så finns följande anslutningar:
+	<img alt="Koppla för två växlar" src={useBaseUrl('img/clients/trn-assemble02.svg')} />
+</TabItem>
+</Tabs>
+
+
+### Koppla till låda
+Använder du lådan och styrpanelen, är inkopplingen förstås densamma, men det enda du ser är nu de yttre anslutningarna som ska användas.
+
+<Tabs
+  groupId="pcb-choice"
+  defaultValue="one"
+  values={[
+    {label: 'Styra en växel', value: 'one'},
+    {label: 'Styra två växlar', value: 'two'},
+  ]}>
+  <TabItem value="one">
+  	<img alt="Koppla för en växel" src={useBaseUrl('img/clients/trn-boxmounting.svg')} />
+  </TabItem>
+  <TabItem value="two">
+  	Ska du styra två växlar så finns följande anslutningar:
+	<img alt="Koppla för två växlar" src={useBaseUrl('img/clients/trn-boxmounting02.svg')} />
+</TabItem>
+</Tabs>

@@ -14,7 +14,7 @@
    viewBox="0 0 180 80"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="trn-servosettings.svg">
   <defs
      id="defs2" />
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0072293"
-     inkscape:cx="370.52074"
+     inkscape:cx="119.33663"
      inkscape:cy="-54.20928"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1117"
+     inkscape:window-height="1121"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,11 +74,11 @@
        ry="1.4447572"
        rx="1.4447572" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.24999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1567"
-       width="41.984207"
+       width="45.399101"
        height="4.498548"
-       x="111.80367"
+       x="111.27451"
        y="13.689422"
        rx="0"
        ry="0" />
@@ -93,7 +93,7 @@
          id="tspan1563"
          x="111.89484"
          y="16.952627"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Inställningar för Servo 2</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Inställningar för Servo 1b</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35044622px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -105,7 +105,7 @@
          id="tspan1569"
          x="112.8651"
          y="24.185383"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 2 min</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 1b min</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1573"
@@ -124,7 +124,7 @@
          y="40.392277"
          x="112.8651"
          id="tspan1575"
-         sodipodi:role="line">Servo 2 min</tspan></text>
+         sodipodi:role="line">Servo 1b max</tspan></text>
     <rect
        y="41.275417"
        x="112.9503"
@@ -143,7 +143,7 @@
          id="tspan1581"
          x="112.8651"
          y="56.852215"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 2 hastighet</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 1b hastighet</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1585"
@@ -162,7 +162,7 @@
          y="73.183632"
          x="112.8651"
          id="tspan1587"
-         sodipodi:role="line">Servo 2 back</tspan></text>
+         sodipodi:role="line">Servo 1b back</tspan></text>
     <rect
        y="74.067673"
        x="112.9503"
@@ -231,9 +231,9 @@
        ry="0"
        rx="0"
        y="13.689422"
-       x="21.845356"
+       x="21.316189"
        height="4.498548"
-       width="41.984207"
+       width="45.136417"
        id="rect1646"
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
@@ -247,7 +247,7 @@
          y="16.952627"
          x="21.934105"
          id="tspan1648"
-         sodipodi:role="line">Inställningar för Servo 1</tspan></text>
+         sodipodi:role="line">Inställningar för Servo 1a</tspan></text>
     <text
        transform="scale(0.9999733,1.0000267)"
        id="text1654"
@@ -259,7 +259,7 @@
          y="24.185383"
          x="22.904366"
          id="tspan1652"
-         sodipodi:role="line">Servo 1 min</tspan></text>
+         sodipodi:role="line">Servo 1a min</tspan></text>
     <rect
        y="25.068094"
        x="22.992001"
@@ -278,7 +278,7 @@
          id="tspan1658"
          x="22.904366"
          y="40.392277"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 1 min</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 1a max</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1662"
@@ -297,7 +297,7 @@
          y="56.852215"
          x="22.904366"
          id="tspan1664"
-         sodipodi:role="line">Servo 1 hastighet</tspan></text>
+         sodipodi:role="line">Servo 1a hastighet</tspan></text>
     <rect
        y="57.735828"
        x="22.992001"
@@ -316,7 +316,7 @@
          id="tspan1670"
          x="22.904366"
          y="73.183632"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 1 back</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">Servo 1a back</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1674"

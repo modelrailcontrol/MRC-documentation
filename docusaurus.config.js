@@ -99,8 +99,8 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'intro-01-overview',
           sidebarPath: require.resolve('./sidebars.js'),
+          homePageId: 'intro-01-overview',
           // Please change this to your repo.
           editUrl: 
             'https://github.com/modelrailcontrol/MRC-documentation/blob/master/',

@@ -22,7 +22,8 @@ och meddelanden som används är `closed`, `thrown`, `toggle`, `moving` och `unk
 mrc/[id]/turnout/direction/ → "closed"
 mrc/[id]/turnout/direction/set → "toggle"
 mrc/[id]/turnout/direction → "moving"
-mrc/[id]/turnout/direction/set → "unknown"
+mrc/[id]/turnout/direction/set → "thrown"
+mrc/[id]/turnout/direction → "unknown"
 ```
 där meddelanden betyder följande:
 

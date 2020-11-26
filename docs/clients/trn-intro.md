@@ -8,11 +8,11 @@ Det finns även möjlighet att styra två servon till samma växel, så att enhe
 ![Enhetens styrmöjligheter](/img/clients/mrc-2turnout-examples.svg)
 
 ## Materiel
-För att bygga ihop en komplett växelstyrning, behöver du minst följande materiel:
+För att bygga ihop *en* komplett växelstyrning, behöver du minst följande materiel:
 
  - Wemos-mini kretskortsdator (eller klon)
  - Mönsterkort, special (*ett per växel*)
- - Stiftlist, 9 pinnar
+ - Stiftlist, 2+3+3 pinnar
  - Hylslist, 4 pinnar
  - Resistorer, en stycken 10 kOhm och två stycken 330 Ohm
  - Lysdioder, två stycken
@@ -21,12 +21,13 @@ För att bygga ihop en komplett växelstyrning, behöver du minst följande mate
  - Kopplingstråd, ett par decimeter
  - 5V strömförsörjning, t.ex. USB-laddare
 
-Vill man dessutom bygga in styrningen i en låda, kan man även behöva följande:
+Vill man dessutom ha lite bättre möjligheter att fästa alla prylarna, kan man även behöva följande:
  - 3D-utskriven multibox med lock
  - 3D-utskriven hållare till mulitboxen
  - 3D-utskriven sladdhållare
+ - 3D-utskriven styrpanelhållare 
 
-Observera att det här är mer ett exempel på material som kan användas. Det går exempelvis att använda helt andra kretskortsdatorer, men då måste man själv anpassa både mjukvara och programvara efter de nya förutsättningarna.
+Observera att det här är mer ett exempel på material som kan användas. Det går även att använda helt andra kretskortsdatorer, men då måste man själv anpassa både mjukvara och programvara efter de nya förutsättningarna.
 
 
 ## Referenser

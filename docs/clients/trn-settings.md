@@ -2,11 +2,11 @@
 title: Inställningar
 ---
 
-När du väl installerat programvara och fått igång enheten, behöver du göra en del specifika inställningar som gäller just växelstyrning.
+När du väl installerat programvaran och fått igång enheten, behöver du göra en del specifika inställningar som gäller just växelstyrning.
 
 
 ## Wifi & MQTT-inställningar
-Hur du hittar enhetens inställningar och för mer information om de generella MRC-inställningarna för nätverket och kommunikationen mellan enheter, se sidan [Enheters inställningar](intro-wifi).
+Hur du hittar enhetens inställningar och för mer information om de generella MRC-inställningarna för nätverket och kommunikationen mellan enheter, se sidan [Enheters grundinställning](intro-wifi).
 
 
 ## Servo-inställningar
