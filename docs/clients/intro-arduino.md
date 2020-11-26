@@ -8,18 +8,19 @@ Börja med att ladda hem Arduinos IDE/utvecklingsmiljö från sidan https://www.
 
 ![Ladda hem Arduion IDE](/img/mrc-sw01.png)
 
-Observera att man i Linux kan få ett felmeddelande om åtkomst till serieporten (Error opening serial port…) första gången man startar utvecklingsmiljön. Detta har att göra med en begränsad behörighet och det finns instruktioner för hur det åtgärdas längst ner på installationssidan för Linux.
+:::note Observera
+I Linux kan man få ett felmeddelande om åtkomst till serieporten (Error opening serial port…) första gången man startar utvecklingsmiljön. Detta har att göra med en begränsad behörighet och det finns instruktioner för hur det åtgärdas längst ner på installationssidan för Linux.
+:::
 
-
-## Drivrutin för USB-krets CH340
+:::note Observera
 För vissa (billigare?) kretskortsdatorer måste man på Windows installera drivrutiner för en USB-krets som heter CH340. Det finns en beskrivning av hur man gör detta hos exempelvis Lawicel: http://www.lawicel.se/blog/esp8266-d1-mini-med-ch340/
-
+:::
 
 ## Kretskortsdatorn
 För att kunna programmera Arduinos med ESP8266-kretsar behöver den typen av kort läggas till i Arduinos utvecklingsmiljö. Det sker på följande sätt.
 
 ### Steg 1 - Lägg till kort
-Gå till utvecklingsmiljöns inställningar via Fil -> Inställningar. Lägg sen till webbadressen ”http://arduino.esp8266.com/stable/package_esp8266com_index.json” i fältet “Additional Board Manager URLs” och klicka på Ok-knappen.
+Gå till utvecklingsmiljöns inställningar via Fil -> Inställningar. Lägg sen till webbadressen `http://arduino.esp8266.com/stable/package_esp8266com_index.json` i fältet “Additional Board Manager URLs” och klicka på Ok-knappen.
 
 ![Lägg till kort](/img/mrc-sw02.png)
 
@@ -66,12 +67,6 @@ Packa sedan upp ZIP-filen i mappen för Arduino utvecklingsmiljöns skissbok (va
 ![Lägg i skissbok](/img/mrc-sw08.png)
 
 
-### Övervaka programvaran
-Första gången du installerar och kör MRC-programvaran kan det vara lämplig att se vad som händer i programmet. Starta därför Seriell monitor via menyn Verktyg -> Seriell monitor och se till att hastigheten är satt till 9600 baud.
-
-![Serial monitor](/img/mrc-sw09.png)
-
-
 ### Anslut kretskortsdatorn
 Anslut nu kretskortsdatorn via vald USB-port (Verktyg -> Port). Det kan vara lämpligt att inte ha servon anslutna till kretskortsdatorn första gången man startar den, eftersom deras läge är okänt och de kan ställas i fel/konstiga lägen.
 
@@ -81,12 +76,18 @@ Som nästa steg är det nu dags att installera programvaran på kretskortsdatorn
 
 
 ### Testa!
-Har allt gått bra så ska du nu i Seriell Monitor kunna se att kretskortsdator gör en massa olika saker. Du ska exempelvis kunna se att MRC försöker skapa ett eget nätverk (AP) och att den publicerar och prenumererar på en del MQTT-meddelanden. Beroende på vad du nu har kopplat till kretskortsdatorn ska du nu kunna testa dess olika funktioner och se vad som händer i Seriell monitor.
+Har allt gått bra så ska du nu kunna komma åt enhetens eget nätverk (AP) och göra inställningar, se sidan [Enheters grundinställning](intro-settings). Beroende på vad du nu har kopplat till kretskortsdatorn ska du också kunna testa dess olika funktioner och se att allt fungerar som det ska.
 
 
-## Stänga av meddelanden
-En nackdel med Seriell monitor är att den ibland kanske ”krockar” med en utgång på kretskortsdatorn som även MRC använder. Så när du är klar med testandet och ser att MRC fungerar som det ska, kan du lämpligen stänga av utskrifterna till Seriell monitor.
+## Felsökning
+Första gången du installerar och kör MRC-programvaran kan det vara lämplig att se vad som händer i programmet. Starta därför Seriell monitor via menyn Verktyg -> Seriell monitor och se till att hastigheten är satt till 9600 baud.
+
+![Serial monitor](/img/mrc-sw09.png)
+
+Sätt sedan igång felsökning-utskrifterna genom att leta reda på raden `byte debug = 0;` i programkoden. Ändra där till en etta (1) så det står `byte debug = 1;` istället och spara programmet. Ladda upp programvaran i kretskortsdatorn igen, så ska du strax kunna se vad som händer i Seriell monitor.
 
 ![Visa felsökningsmeddelanden](/img/mrc-sw10.png)
 
-Du stänger av utskrifterna genom att leta reda på raden ”byte debug = 1;” i programkoden. Ändra till en nolla (0) istället ”byte debug = 0;” och spara programmet. Ladda upp programvaran i kretskortsdatorn igen och därefter ska även funktioner kopplade till kretskortsdatorns Tx-utgång fungera med MRC.
+:::note Observera
+Seriell monitor kan ibland ”krocka” med en utgång på kretskortsdatorn som även MRC använder. Så när du är klar med testandet och ser att MRC fungerar som det ska, bör du stänga av utskrifterna till Seriell monitor.
+::::

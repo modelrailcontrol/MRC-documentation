@@ -16,19 +16,22 @@ mrc/[id]/[node]/direction/
 mrc/[id]/[node]/direction/set
 ```
 
-och meddelanden som används är `diverge`, `through`, `moving` och `unknown`, exempelvis:
+och meddelanden som används är `closed`, `thrown`, `toggle`, `moving` och `unknown`, exempelvis:
 
 ```
-mrc/[id]/turnout/direction/ → "diverge"
-mrc/[id]/turnout/direction/set → "through"
+mrc/[id]/turnout/direction/ → "closed"
+mrc/[id]/turnout/direction/set → "toggle"
 mrc/[id]/turnout/direction → "moving"
-mrc/[id]/turnout/direction/set → "unknown"
+mrc/[id]/turnout/direction/set → "thrown"
+mrc/[id]/turnout/direction → "unknown"
 ```
 där meddelanden betyder följande:
 
-**diverge** betyder att växeln ska lägga till sidospår
+**thrown** betyder att växeln ska lägga till sidospår
 
-**through** betyder att växeln ska lägga rakt
+**closed** betyder att växeln ska lägga rakt
+
+**toggle** betyder att växeln ska lägga om - till rakt om den är mot sidospår och tvärtom
 
 **moving** betyder att växeln är under omläggning ()och inte tar emot nya kommandon)
 
@@ -49,18 +52,18 @@ mrc/[id]/[node]/direction/
 mrc/[id]/[node]/direction/set
 ```
 
-och meddelanden som används är `left`, `right`, `through`, `moving` och `unknown`, exempelvis:
+och meddelanden som används är `left`, `right`, `closed`, `moving` och `unknown`, exempelvis:
 
 ```
 mrc/[id]/turnout/direction/set → "left"
 mrc/[id]/turnout/direction/ → "right"
-mrc/[id]/turnout/direction/set → "through"
+mrc/[id]/turnout/direction/set → "closed"
 mrc/[id]/turnout/direction → "moving"
 mrc/[id]/turnout/direction/set → "unknown"
 ```
 där meddelanden betyder följande:
 
-**through** betyder att växeln ska lägga rakt
+**closed** betyder att växeln ska lägga rakt
 
 **left** betyder att en 3-vägsväxel ska läggas till sidospår vänster
 
@@ -95,12 +98,12 @@ mrc/[id]/turnout/direction/set → "unknown"
 ```
 där meddelanden betyder följande:
 
-**through-through** betyder att en korsningsväxel ska läggas för rakt genomgående trafik
+**closed-closed** betyder att en korsningsväxel ska läggas för rakt genomgående trafik
 
-**throw-through** betyder att en korsningsväxel ska läggas från svängande till rakt
+**thrown-closed** betyder att en korsningsväxel ska läggas från svängande till rakt
 
-**through-throw** betyder att en korsningsväxel ska läggas från rakt till svängande
+**closed-thrown** betyder att en korsningsväxel ska läggas från rakt till svängande
 
-**throw-throw** betyder att en korsningsväxel ska läggas för korsande trafik
+**thrown-thrown** betyder att en korsningsväxel ska läggas för korsande trafik
 
 **unknown** när växeln är i okänt läge, exempelvis direkt efter en start av enheten
