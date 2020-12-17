@@ -6,7 +6,7 @@ När du väl installerat programvaran och fått igång enheten, behöver du gör
 
 
 ## Wifi & MQTT-inställningar
-Hur du hittar enhetens inställningar och för mer information om de generella MRC-inställningarna för nätverket och kommunikationen mellan enheter, se sidan [Enheters grundinställning](intro-wifi).
+Hur du hittar enhetens inställningar och för mer information om de generella MRC-inställningarna för nätverket och kommunikationen mellan enheter, se sidan [Enheters grundinställning](intro-settings).
 
 
 ## Servo-inställningar

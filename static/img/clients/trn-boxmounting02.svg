@@ -15,7 +15,10 @@
    version="1.1"
    id="svg5271"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="trn-boxmounting02.svg">
+   sodipodi:docname="trn-boxmounting02.svg"
+   inkscape:export-filename="/home/peter/Dokument/MJ/Forumbilder/mrc070b.png"
+   inkscape:export-xdpi="97.716209"
+   inkscape:export-ydpi="97.716209">
   <defs
      id="defs5265" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2473028"
-     inkscape:cx="462.37816"
-     inkscape:cy="457.17466"
+     inkscape:zoom="1.2468646"
+     inkscape:cx="392.82778"
+     inkscape:cy="358.09821"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
