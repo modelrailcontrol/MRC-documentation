@@ -29,6 +29,22 @@ Vill man dessutom ha lite bättre möjligheter att fästa alla prylarna, kan man
 
 Observera att det här är mer ett exempel på material som kan användas. Det går även att använda helt andra kretskortsdatorer, men då måste man själv anpassa både mjukvara och programvara efter de nya förutsättningarna.
 
+## Licens
+Denna programvara är släppt under en GPL 3.0-licens, vilket betyder att du fritt får använda, ändra och publicera den vidare så länge du gör det under samma eller motsvarande licens. Så här säger den engelska versionen:
+
+:::note GPL v3.0
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+:::
+
+Du kan läsa hela licensen på [GNUs webbplats](http://www.gnu.org/licenses/gpl-3.0.html).
+
+
+## Installation
+När du laddat ner programvaran enligt den generella beskrivningen (avsnitt MRC programvara) och valt vilken kretskortsdator du har, ska du bara koppla in den och ladda upp mjukvaran till den. När mjukvaran är uppladda ska enheten vara klar att ställas in och användas.
+
 
 ## Referenser
 
