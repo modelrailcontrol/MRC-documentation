@@ -1,5 +1,6 @@
 ---
 title: Introduktion
+slug: /
 ---
 
 Tanken med MRC är att skapa ett flexibelt och decentraliserat sätt att styra modelljärnvägar. Inspirationen kommer från IoT (Internet of Things) där alla saker ska kunna kommunicera med varandra, men i MRC sker det under mer kontrollerade former så man säkert vet att allting fungerar.
