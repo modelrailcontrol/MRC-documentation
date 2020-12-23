@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    'Översikt': ['intro-01-overview', ],
+    'Översikt': ['intro-01-overview', 'intro-contribute', ],
     'MRC ämnesstruktur': ['struct-01-intro', 'struct-02-device', 'struct-03-node', 'struct-04-property', ],
     'MRC funktioner': ['function-01-intro', 'function-02-turnout', 'function-03-signal', 'function-04-button', 
                        'function-05-block', ],
